@@ -19,4 +19,4 @@ def count_sort(arr: list) -> list:
 
 a = [64, 34, 25, 12, 22, 11, 90]
 print("Unsorted array is:", a)
-print("Sorted array is:", count_sort(a))
+print("Count Sorted array is:", count_sort(a))

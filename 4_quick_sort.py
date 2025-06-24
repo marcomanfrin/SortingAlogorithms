@@ -16,4 +16,4 @@ def quick_sort(arr: list) -> list:
 
 a = [64, 34, 25, 12, 22, 11, 90]
 print("Unsorted array is:", a)
-print("Sorted array is:", quick_sort(a))
+print("Quick Sorted array is:", quick_sort(a))

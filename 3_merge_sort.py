@@ -34,4 +34,4 @@ def merge(left: list, right: list) -> list:
 
 a = [64, 34, 25, 12, 22, 11, 90]
 print("Unsorted array is:", a)
-print("Sorted array is:", merge_sort(a))
+print("Merge Sorted array is:", merge_sort(a))
